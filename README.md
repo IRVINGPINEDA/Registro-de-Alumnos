@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PRACTICA - Registro de alumnos y grupos (PHP + SQLite)
 
 Mini-sistema en PHP (sin dependencias) para:

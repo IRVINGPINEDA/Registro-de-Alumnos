@@ -1,0 +1,4 @@
+[Tue Feb  3 18:54:50 2026] PHP 8.2.12 Development Server (http://127.0.0.1:31237) started
+[Tue Feb  3 18:54:50 2026] 127.0.0.1:55651 Accepted
+[Tue Feb  3 18:54:50 2026] 127.0.0.1:55651 [404]: GET /index.php
+[Tue Feb  3 18:54:50 2026] 127.0.0.1:55651 Closing

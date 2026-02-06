@@ -97,9 +97,7 @@ Usa SQLite en storage/app.sqlite. Se crea automáticamente al primer inicio.
 ## Autores
 
 **IRVING ISAY PINEDA PINEDA**
-**AARON SALVADOR ROJAS MONROY**
 - https://github.com/IRVINGPINEDA
-- https://github.com/AARONROJAS
 
-**JOSHUA MEDINA**
-- https://github.com/goku58432
+**AARON ROJAS**
+- https://github.com/aaronrojas

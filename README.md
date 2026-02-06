@@ -17,9 +17,9 @@ Proyecto hecho en PHP y MySQL para la gestion de alumnos de una universidad
 
 Aplicacion web con:
 
-- **Registrar Alumno
-- **Registrar Grupo
-- **Alumnos Registrados
+- Registrar Alumno
+- Registrar Grupo
+- Alumnos Registrados
 - Configuracion Catalogos
 
 ---

@@ -41,9 +41,10 @@ Proyecto hecho en PHP y MySQL para la gestion de alumnos de una universidad
 
 Aplicacion web con:
 
-- **Frontend estatico** (HTML/CSS/JS) servido como archivos estaticos.
-- **Backend** (Node.js + Express) con endpoints REST bajo `/api/*`.
-- **Base de datos** SQLite (generada localmente).
+- Registrar Alumno
+- Registrar Grupo
+- Alumnos Registrados
+- Configuracion Catalogos
 
 ---
 
